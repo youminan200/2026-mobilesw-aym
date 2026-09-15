@@ -1,13 +1,8 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
 # ArtPick (아트픽) - 예술 및 문화 전시 큐레이션 플랫폼
 
 ## Team
-- 김태윤 / Mobile PM
-- 안유민 / Mobile Developer
+- 김태윤 / MobilePM
+- 안유민 / Mobile developer
 - 정래현 / Frontend Developer
 - 강이수 / Backend Developer
 - 류호환 / Backend Developer
