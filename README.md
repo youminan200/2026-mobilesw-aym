@@ -8,9 +8,7 @@
 - 류호환 / Backend Developer
 
 ## Project
-사용자의 예술적 취향과 위치 기반 데이터를 
-결합하여 맞춤형 전시 및 문화 예술 콘텐츠를 추천하는 스마트 큐레이션 서비스입니다. 
-복잡한 탐색 과정 없이 개인화된 예술 경험을 손쉽게 즐길 수 있도록 돕습니다.
+사용자의 예술적 취향과 위치 기반 데이터를 결합하여 맞춤형 전시 및 문화 예술 콘텐츠를 추천하는 스마트 큐레이션 서비스입니다. 복잡한 탐색 과정 없이 개인화된 예술 경험을 손쉽게 즐길 수 있도록 돕습니다.
 
 ## Target User
 - 미술관, 갤러리, 팝업스토어 등 문화 예술 행사를 정기적으로 즐기거나 관심이 많은 2030 관람객
@@ -33,4 +31,4 @@
 - Frontend: React / Next.js
 - Backend: Node.js (Express), Spring Boot
 - Database: PostgreSQL, Firebase
-- DevOps & Tools: Git, GitHub Desktop, GitHub Actionss
+- DevOps & Tools: Git, GitHub Desktop, GitHub Actions
