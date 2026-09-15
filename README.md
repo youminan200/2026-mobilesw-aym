@@ -1,4 +1,3 @@
-# 2026 Mobile SW 
 # ArtPick (아트픽) - 예술 및 문화 전시 큐레이션 플랫폼
 
 ## Team
@@ -34,4 +33,4 @@
 - Frontend: React / Next.js
 - Backend: Node.js (Express), Spring Boot
 - Database: PostgreSQL, Firebase
-- DevOps & Tools: Git, GitHub Desktop, GitHub Actions
+- DevOps & Tools: Git, GitHub Desktop, GitHub Actionss
